@@ -1,4 +1,6 @@
 ## This file contains a pair of functions that cache the inverse of a matrix
+## Helpful Documentation: 
+## https://github.com/lgreski/datasciencectacontent/blob/master/markdown/rprog-breakingDownMakeVector.md
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
